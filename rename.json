@@ -1,0 +1,7 @@
+{
+  "src/name.js": "src/{%= name %}.js",
+  "src/name.less": "src/{%= name %}.less",
+  "test/name_test.js": "test/{%= name %}_test.js",
+  "test/name.html": "test/{%= name %}.html",
+  "example/demo.html": "example/demo-{%= name %}.html"
+}
